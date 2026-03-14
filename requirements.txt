@@ -1,0 +1,4 @@
+streamlit
+pandas
+scikit-learn
+openpyxl  # necesario para leer archivos .xlsx
